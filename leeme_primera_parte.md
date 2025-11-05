@@ -841,11 +841,3 @@ python manage.py runserver 8044
 * Si quieres, preparo el diagrama ERD o el archivo `.drawio` más adelante.
 
 ---
-
-Si quieres, ahora puedo:
-
-* (A) Generarte los archivos listos para pegar (ya incluí los contenidos clave arriba).
-* (B) Crear las vistas/CRUD para `Pedido` y `DetallePedido` también.
-* (C) Añadir validaciones, mensajes (Django messages) y estilo adicional CSS.
-
-Indica cuál de esas opciones quieres que haga **ahora** y lo genero aquí mismo.
